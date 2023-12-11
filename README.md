@@ -8,7 +8,19 @@ Notes and annotations at: [hypotes.is](https://hyp.is/go?url=https%3A%2F%2Far5iv
 
 ## Concepts
 
-- Perplexity in Language Models: https://medium.com/p/87a196019a94
+Supplementary materials to understand the concepts in the paper:
+
+- [Perplexity in Language Models](https://medium.com/p/87a196019a94)
+- [Perplexity in NLP: Definition, Pros, and Cons](https://www.techslang.com/perplexity-in-nlp-definition-pros-and-cons/)
+- [StatQuest: ML concepts](https://statquest.org/)
+
+## Authors
+
+- [Sofia Serrano](https://homes.cs.washington.edu/~sofias6/)
+- [Zander Brumbaugh](https://github.com/ZanderBrumbaugh)
+- [Noah A. Smith](https://nasmith.github.io/)
+
+---
 
 ## My experiments
 
