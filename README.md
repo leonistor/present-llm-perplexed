@@ -22,7 +22,17 @@ Supplementary materials to understand the concepts in the paper:
 
 ---
 
-## My experiments
+## Experiments
+
+## Suggested in the paper
+
+> You can test this out. Try instructing a model (for example, ChatGPT) to generate some text (a public awareness statement, perhaps, or a plan for an advertising campaign) about a very specific item X geared towards a specific subpopulation Y, preferably with an X and Y that haven’t famously been paired together. (page 21)
+
+- **User**: Generate advertising text for icecream targeted at inuits.
+- **Llama**: Introducing our newest flavor – Inuit Ice! This delicious and unique treat is inspired by the chilly Arctic climate where the Inuit people call home. Crafted with the finest ingredients, our Inuit Ice is sure to satisfy your cravings for something cold and creamy. Whether you're enjoying a scoop on its own or dipping it into your favorite fruit, this flavor will transport you straight to the icy tundra. So why wait? Come try Inuit Ice today – available now at our nearest location!
+
+- **User**: Mention something that has four legs and three hands?
+- **Llama**: The answer to your riddle is a tetrapod – an animal with four legs and three or more limbs (such as a frog). Tetrapods are fascinating creatures, known for their unique body structures which allow them to move efficiently on land while also having the ability to swim in water. Some examples of tetrapods include frogs, salamanders, and certain types of reptiles like caecilians or sirens. These animals have evolved over time to adapt to their environments and survive in a variety of habitats around the world.
 
 ### GPTZero
 
