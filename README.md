@@ -2,9 +2,9 @@
 
 Presented by Leo Nistor on Dec 12th, 2023 at "papers seminar" organized by [Prof. Dr. Razvan Andonie](https://www.cwu.edu/academics/computer-science/directory/razvan-andonie.php)
 
-Arxiv source: [pdf](https://arxiv.org/abs/2311.17301) [html](https://ar5iv.labs.arxiv.org/html/2311.17301)
+Paper Arxiv source: [pdf](https://arxiv.org/abs/2311.17301) or [html](https://ar5iv.labs.arxiv.org/html/2311.17301) (to get the html5 version of any arXiv document replace `x` into `5` in the paper URL: `https://arxiv.org/abs/2311.17301` -> `https://ar5iv.org/abs/2311.17301`)
 
-Notes and annotations at: [hypotes.is](https://hyp.is/go?url=https%3A%2F%2Far5iv.labs.arxiv.org%2Fhtml%2F2311.17301&group=__world__)
+[Notes and annotations](https://hyp.is/go?url=https%3A%2F%2Far5iv.labs.arxiv.org%2Fhtml%2F2311.17301&group=__world__) using [hypotes.is](https://web.hypothes.is/).
 
 ## Concepts
 
